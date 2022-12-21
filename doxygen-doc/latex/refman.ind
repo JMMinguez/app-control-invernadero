@@ -1,0 +1,76 @@
+\begin{theindex}
+
+  \item {CalidadAire}, \hyperpage{9}
+  \item {CalidadAire.cpp}, \hyperpage{17}
+
+  \indexspace
+
+  \item {Dashboard}, \hyperpage{9}
+    \subitem {opcion}, \hyperpage{9}
+  \item {Dashboard.cpp}, \hyperpage{18}
+
+  \indexspace
+
+  \item {Excepcion}, \hyperpage{10}
+
+  \indexspace
+
+  \item {Higrometro}, \hyperpage{11}
+  \item {Higrometro.cpp}, \hyperpage{19}
+
+  \indexspace
+
+  \item {Luxometro}, \hyperpage{11}
+  \item {Luxometro.cpp}, \hyperpage{19}
+
+  \indexspace
+
+  \item {main.cpp}, \hyperpage{20}
+
+  \indexspace
+
+  \item {opcion}
+    \subitem {Dashboard}, \hyperpage{9}
+  \item {operator$<$}
+    \subitem {User}, \hyperpage{16}
+
+  \indexspace
+
+  \item {registro}
+    \subitem {Server}, \hyperpage{14}
+  \item {rethrow}
+    \subitem {Sensor}, \hyperpage{12}
+  \item {RGBcam}, \hyperpage{11}
+  \item {RGBcam.cpp}, \hyperpage{21}
+
+  \indexspace
+
+  \item {SCam}, \hyperpage{12}
+  \item {SCam.cpp}, \hyperpage{22}
+  \item {Seguridad}, \hyperpage{12}
+  \item {Seguridad.cpp}, \hyperpage{23}
+  \item {Sensor}, \hyperpage{12}
+    \subitem {rethrow}, \hyperpage{12}
+  \item {Sensor.cpp}, \hyperpage{24}
+  \item {Server}, \hyperpage{13}
+    \subitem {registro}, \hyperpage{14}
+  \item {Server.cpp}, \hyperpage{25}
+  \item {SP}, \hyperpage{14}
+  \item {SP.cpp}, \hyperpage{26}
+  \item {SV}, \hyperpage{14}
+  \item {SV.cpp}, \hyperpage{27}
+
+  \indexspace
+
+  \item {Tcam}, \hyperpage{15}
+  \item {Tcam.cpp}, \hyperpage{28}
+  \item {Termometro}, \hyperpage{15}
+  \item {Termometro.cpp}, \hyperpage{28}
+
+  \indexspace
+
+  \item {User}, \hyperpage{16}
+    \subitem {operator$<$}, \hyperpage{16}
+  \item {User.cpp}, \hyperpage{29}
+
+\end{theindex}

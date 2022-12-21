@@ -1,0 +1,64 @@
+\@ifundefined {etoctocstyle}{\let \etoc@startlocaltoc \@gobble \let \etoc@settocdepth \@gobble \let \etoc@depthtag \@gobble \let \etoc@setlocaltop \@gobble }{}
+\contentsline {chapter}{\numberline {1}P7-\/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Excep-\/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}GDB-\/\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Doxygen}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Hierarchical Index}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Class Hierarchy}{3}{section.2.1}%
+\contentsline {chapter}{\numberline {3}Class Index}{5}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Class List}{5}{section.3.1}%
+\contentsline {chapter}{\numberline {4}File Index}{7}{chapter.4}%
+\contentsline {section}{\numberline {4.1}File List}{7}{section.4.1}%
+\contentsline {chapter}{\numberline {5}Class Documentation}{9}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Calidad\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Aire Class Reference}{9}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Dashboard Class Reference}{9}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Member Data Documentation}{9}{subsection.5.2.1}%
+\contentsline {subsubsection}{\numberline {5.2.1.1}opcion}{10}{subsubsection.5.2.1.1}%
+\contentsline {section}{\numberline {5.3}Excepcion Class Reference}{10}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Higrometro Class Reference}{11}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Luxometro Class Reference}{11}{section.5.5}%
+\contentsline {section}{\numberline {5.6}RGBcam Class Reference}{11}{section.5.6}%
+\contentsline {section}{\numberline {5.7}SCam Class Reference}{12}{section.5.7}%
+\contentsline {section}{\numberline {5.8}Seguridad Class Reference}{12}{section.5.8}%
+\contentsline {section}{\numberline {5.9}Sensor Class Reference}{12}{section.5.9}%
+\contentsline {subsection}{\numberline {5.9.1}Member Function Documentation}{12}{subsection.5.9.1}%
+\contentsline {subsubsection}{\numberline {5.9.1.1}rethrow()}{13}{subsubsection.5.9.1.1}%
+\contentsline {section}{\numberline {5.10}Server Class Reference}{13}{section.5.10}%
+\contentsline {subsection}{\numberline {5.10.1}Member Function Documentation}{14}{subsection.5.10.1}%
+\contentsline {subsubsection}{\numberline {5.10.1.1}registro()}{14}{subsubsection.5.10.1.1}%
+\contentsline {section}{\numberline {5.11}SP Class Reference}{14}{section.5.11}%
+\contentsline {section}{\numberline {5.12}SV Class Reference}{14}{section.5.12}%
+\contentsline {section}{\numberline {5.13}Tcam Class Reference}{15}{section.5.13}%
+\contentsline {section}{\numberline {5.14}Termometro Class Reference}{15}{section.5.14}%
+\contentsline {section}{\numberline {5.15}User Class Reference}{16}{section.5.15}%
+\contentsline {subsection}{\numberline {5.15.1}Member Function Documentation}{16}{subsection.5.15.1}%
+\contentsline {subsubsection}{\numberline {5.15.1.1}operator$<$()}{16}{subsubsection.5.15.1.1}%
+\contentsline {chapter}{\numberline {6}File Documentation}{17}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Calidad\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}Aire.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}cpp File Reference}{17}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Detailed Description}{17}{subsection.6.1.1}%
+\contentsline {section}{\numberline {6.2}Dashboard.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}cpp File Reference}{18}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Detailed Description}{18}{subsection.6.2.1}%
+\contentsline {section}{\numberline {6.3}Higrometro.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}cpp File Reference}{19}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}Detailed Description}{19}{subsection.6.3.1}%
+\contentsline {section}{\numberline {6.4}Luxometro.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}cpp File Reference}{19}{section.6.4}%
+\contentsline {subsection}{\numberline {6.4.1}Detailed Description}{20}{subsection.6.4.1}%
+\contentsline {section}{\numberline {6.5}main.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}cpp File Reference}{20}{section.6.5}%
+\contentsline {subsection}{\numberline {6.5.1}Detailed Description}{21}{subsection.6.5.1}%
+\contentsline {section}{\numberline {6.6}RGBcam.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}cpp File Reference}{21}{section.6.6}%
+\contentsline {subsection}{\numberline {6.6.1}Detailed Description}{22}{subsection.6.6.1}%
+\contentsline {section}{\numberline {6.7}SCam.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}cpp File Reference}{22}{section.6.7}%
+\contentsline {subsection}{\numberline {6.7.1}Detailed Description}{23}{subsection.6.7.1}%
+\contentsline {section}{\numberline {6.8}Seguridad.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}cpp File Reference}{23}{section.6.8}%
+\contentsline {subsection}{\numberline {6.8.1}Detailed Description}{24}{subsection.6.8.1}%
+\contentsline {section}{\numberline {6.9}Sensor.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}cpp File Reference}{24}{section.6.9}%
+\contentsline {subsection}{\numberline {6.9.1}Detailed Description}{25}{subsection.6.9.1}%
+\contentsline {section}{\numberline {6.10}Server.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}cpp File Reference}{25}{section.6.10}%
+\contentsline {subsection}{\numberline {6.10.1}Detailed Description}{26}{subsection.6.10.1}%
+\contentsline {section}{\numberline {6.11}SP.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}cpp File Reference}{26}{section.6.11}%
+\contentsline {subsection}{\numberline {6.11.1}Detailed Description}{27}{subsection.6.11.1}%
+\contentsline {section}{\numberline {6.12}SV.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}cpp File Reference}{27}{section.6.12}%
+\contentsline {subsection}{\numberline {6.12.1}Detailed Description}{27}{subsection.6.12.1}%
+\contentsline {section}{\numberline {6.13}Tcam.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}cpp File Reference}{28}{section.6.13}%
+\contentsline {subsection}{\numberline {6.13.1}Detailed Description}{28}{subsection.6.13.1}%
+\contentsline {section}{\numberline {6.14}Termometro.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}cpp File Reference}{28}{section.6.14}%
+\contentsline {subsection}{\numberline {6.14.1}Detailed Description}{29}{subsection.6.14.1}%
+\contentsline {section}{\numberline {6.15}User.\discretionary {\mbox {\scriptsize $\hookleftarrow $}}{}{}cpp File Reference}{29}{section.6.15}%
+\contentsline {subsection}{\numberline {6.15.1}Detailed Description}{30}{subsection.6.15.1}%
+\contentsline {chapter}{Index}{31}{section*.59}%
